@@ -141,10 +141,6 @@ body {
   margin: 0;
 }
 
-.section-what-we-do {
-  padding-bottom: 94px;
-}
-
 .what-we-do {
   margin: 0;
 }
@@ -194,11 +190,10 @@ body {
   padding: 30px 0;
 }
 
-.section-bottom {
+.bg-index {
   background-color: var(--light);
   font-size: 16px;
   line-height: 1.186;
-  padding: 94px 0;
   margin: 0;
 }
 
@@ -370,4 +365,8 @@ body {
 .section {
   padding: 94px 0;
   margin: 0 auto;
+}
+
+.s-what-we-do {
+  padding: 0 0 94px;
 }
